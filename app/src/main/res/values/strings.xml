@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SharedPreferencesLecture</string>
+    <string name="WhatsName">Whats is your name?</string>
+    <string name="Name">Type your name:</string>
+    <string name="Salvar">Save</string>
+    <string name="User">Hello, undefined user</string>
+</resources>
